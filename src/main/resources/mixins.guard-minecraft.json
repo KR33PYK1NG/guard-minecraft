@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.guard-minecraft.refmap.json",
+    "package": "rmc.mixins.guard_minecraft",
+    "mixins": [
+        "ExplosionMixin"
+    ]
+}
